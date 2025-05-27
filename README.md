@@ -27,8 +27,8 @@
          "Games": ["PUBG", "GTA V"],
          "Music": {
             "Genres": ["Eletronic", "Rock", "Lo-fi"],
-            "Songs": ["Avicii - "],
-            "Artists": ["MF DOOM","Rav","Vundabar"]
+            "Songs": ["Location", "Dive", "Dilemme"],
+            "Artists": ["Avicii", "Lost Frequencies", "Martin Garrix"]
          }
       }
    }
