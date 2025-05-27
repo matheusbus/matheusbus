@@ -16,25 +16,31 @@
 ```json
 {
    "Matheus": {
-      "CurrentFocus": "Being the best version of me",
-      "HowDoISeeMyselfIn5Years": "Living my own dreams as a reality",
-      "Favorites": {
-         "OperationalSystem": "Arch Linux",
-         "GUI": "XFCE",
-         "Kernel": "Zen",
-         "Interpreter": "Bash",
-         "IDE": "VS Code",
-         "Language": "Java",
-         "MobileOS": "Android",
-         "Games": ["PUBG", "GTA V"],
-         "Music": {
-            "Genres": ["Eletronic", "Rock", "Lo-fi"],
-            "Songs": ["Location", "Dive", "Dilemme"],
-            "Artists": ["Avicii", "Lost Frequencies", "Martin Garrix"]
-         }
-      }
+      "Profession": {
+         "Role": "Software Engineer / Developer",
+         "CurrentStack": ["JavaScript", "TypeScript", "NodeJS", "Python", "ReactJS", "PostgreSQL"],
+         "Learning": ["React Native", "Machine Learning"],
+         "Certifications": []
+      },
+      "Mindset": {
+         "Quote": "Code is like humor. When you have to explain it, it’s bad.",
+         "CurrentGoal": "Promote transformation through technology"
+      },
+      "GeekSide": {
+         "Games": ["Playerunknown's Battlegrounds", "Grand Theft Auto V", "Adventure Quest Worlds"],
+      },
+      "TechSetup": {
+         "OS": ["Arch Linux", "Windows"],
+         "Shell": "Zsh with Oh-My-Zsh",
+         "Editor": "VS Code",
+         "Laptop": "Dell G15",
+	 "Desktop": "Ryzen 5700x + RTX 3060 ti + 32gb RAM"
+         "Phone": "Android, but thinking iOS"
+      },
+      "FunFact": "Once spent 12 hours straight debugging only to find a missing semicolon."
    }
 }
+
 ```
 
 <h5 align="center">Languages I use</h5>
