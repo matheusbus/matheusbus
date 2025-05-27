@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f1869369-0d1b-4032-91c3-4b3728930ca4)
+![Image](https://github.com/user-attachments/assets/fcc26afc-723f-4ff2-813c-a4cb55b3aeea)
 
 <h1 align="center">Matheus Buschermoehle</h1>
 
