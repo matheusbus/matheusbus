@@ -8,7 +8,7 @@
 	<a href="mailto:matheusbuschermoehle@gmail.com">
 		<img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" />
 	</a>
-	<a href="https://www.linkedin.com/in/matheus-buschermoehle-3ab067215/">
+	<a href="https://www.linkedin.com/in/matheusbus">
 		<img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" />
 	</a>
 </p>
