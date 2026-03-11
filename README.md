@@ -28,9 +28,6 @@
   <a href="#">
 		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 	</a>
-  <a href="#">
-		<img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" />
-	</a>
 </p>
 
 <h5 align="center">Frameworks I use</h5>
